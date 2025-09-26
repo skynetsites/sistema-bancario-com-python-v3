@@ -29,7 +29,7 @@ Agora os clientes, contas, transações e histórico são representados como **o
 Clone o repositório, entre no diretório do projeto e execute:
 
 ```bash
-git clone https://github.com/seuusuario/sistema-bancario-python-v3.git
+git clone https://github.com/skynetsites/sistema-bancario-python-v3.git
 cd sistema-bancario-python-v3
 python sistema_bancario_v3.py
 ```
